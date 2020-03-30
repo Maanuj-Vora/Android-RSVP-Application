@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\rainb\\Documents\\GitHub\\JCNC-RSVP-Android\\JCNCRSVP\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+            "outputFile": "C:\\Users\\rainb\\Documents\\GitHub\\Android-RSVP-Application\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw600dp-v13\\values-sw600dp-v13.xml",
             "map": [
                 {
                     "source": "C:\\Users\\rainb\\.gradle\\caches\\transforms-2\\files-2.1\\ebf426d513d8b9c65781216c5d9aced2\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",

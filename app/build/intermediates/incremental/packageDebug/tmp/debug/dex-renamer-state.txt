@@ -1,10 +1,10 @@
-#Sun Mar 29 23:57:59 PDT 2020
+#Mon Mar 30 00:05:25 PDT 2020
 path.2=classes2.dex
 path.1=classes.dex
 path.0=classes.dex
 renamed.2=classes3.dex
 renamed.1=classes2.dex
 renamed.0=classes.dex
-base.2=C\:\\Users\\rainb\\Documents\\GitHub\\JCNC-RSVP-Android\\JCNCRSVP\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\out
-base.1=C\:\\Users\\rainb\\Documents\\GitHub\\JCNC-RSVP-Android\\JCNCRSVP\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\out
-base.0=C\:\\Users\\rainb\\Documents\\GitHub\\JCNC-RSVP-Android\\JCNCRSVP\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\out
+base.2=C\:\\Users\\rainb\\Documents\\GitHub\\Android-RSVP-Application\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\out
+base.1=C\:\\Users\\rainb\\Documents\\GitHub\\Android-RSVP-Application\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\out
+base.0=C\:\\Users\\rainb\\Documents\\GitHub\\Android-RSVP-Application\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\out

@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\rainb\\Documents\\GitHub\\JCNC-RSVP-Android\\JCNCRSVP\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-da\\values-da.xml",
+            "outputFile": "C:\\Users\\rainb\\Documents\\GitHub\\Android-RSVP-Application\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-da\\values-da.xml",
             "map": [
                 {
                     "source": "C:\\Users\\rainb\\.gradle\\caches\\transforms-2\\files-2.1\\84f93436ca5ecc22b9ba81ce37a86ab2\\res\\values-da\\values.xml",
