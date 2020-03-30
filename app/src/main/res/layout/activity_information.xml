@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".administrator.InformationActivity">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/rsvped"
+                android:layout_width="match_parent"
+                android:layout_height="32dp"
+                android:text="Number of RSVP People is: " />
+
+            <AutoCompleteTextView
+                android:id="@+id/eventName"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="Name of the Event" />
+
+            <MultiAutoCompleteTextView
+                android:id="@+id/eventInfo"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="Information about the Event" />
+
+            <CalendarView
+                android:id="@+id/calendarView"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent" />
+
+            <EditText
+                android:id="@+id/startTime"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:ems="10"
+                android:hint="Start Time"
+                android:inputType="time" />
+
+            <ToggleButton
+                android:id="@+id/startEra"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="AM or PM?"
+                android:textColorHint="#00DFCFCF"
+                android:textOff="AM"
+                android:textOn="PM" />
+
+            <EditText
+                android:id="@+id/endTime"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:ems="10"
+                android:hint="End Time"
+                android:inputType="time" />
+
+            <ToggleButton
+                android:id="@+id/endEra"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="AM or PM?"
+                android:textOff="AM"
+                android:textOn="PM" />
+
+            <com.google.android.material.chip.Chip
+                android:id="@+id/rsvp"
+                android:layout_width="match_parent"
+                android:layout_height="58dp"
+                android:checkable="true"
+                android:text="Need RSVP for the Event?"
+                android:textSize="30sp" />
+
+            <Button
+                android:id="@+id/submitButton"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/roundedfishingbutton"
+                android:onClick="submit"
+                android:text="Update Event"
+                app:backgroundTint="#16555F" />
+
+        </LinearLayout>
+    </ScrollView>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

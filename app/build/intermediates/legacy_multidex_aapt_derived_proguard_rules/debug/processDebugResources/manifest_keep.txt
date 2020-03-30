@@ -1,0 +1,4 @@
+# Referenced at C:\Users\rainb\Documents\GitHub\JCNC-RSVP-Android\JCNCRSVP\app\build\intermediates\merged_manifests\debug\AndroidManifest.xml:19
+-keep class androidx.core.app.CoreComponentFactory { <init>(); }
+# Referenced at C:\Users\rainb\Documents\GitHub\JCNC-RSVP-Android\JCNCRSVP\app\build\intermediates\merged_manifests\debug\AndroidManifest.xml:19
+-keep class androidx.multidex.MultiDexApplication { <init>(); }
