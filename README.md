@@ -43,5 +43,7 @@ Currently Developed by @Maanuj-Vora
 
 ### Notes
 ---
+
 I have not created a very secure admin login, as you can see in the code, to have the admin login, you can go to the app/src/main/java/vora/maanuj/rsvp/auth/LoginActivity.java file and change it there
+
 ---
